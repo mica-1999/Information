@@ -22,6 +22,32 @@ This repository contains a collection of Markdown files documenting various thin
   - `Hash Functions/`: Notes on cryptographic hash functions.
     - `MD5/Theory.md`: Theory of MD5.
     - `SHA/Theory.md`: Theory of Secure Hash Algorithm (SHA).
+- `Web Development/`: Contains notes on web development topics.
+  - `FrontEnd/`: Notes on front-end development.
+    - `CSS/`: Notes on CSS.
+      - `Basics/`: Basic CSS concepts.
+        - `Units.md`: CSS units.
+        - `Syntax.md`: CSS syntax.
+        - `Selectors.md`: CSS selectors.
+        - `Properties.md`: CSS properties.
+      - `Layouts/`: CSS layout techniques.
+        - `Positioning.md`: CSS positioning.
+        - `Grid.md`: CSS Grid.
+        - `Flexbox.md`: CSS Flexbox.
+      - `Responsive-Design/`: Responsive design techniques.
+        - `ViewPort.md`: Viewport in responsive design.
+        - `Mobile-First.md`: Mobile-first design.
+        - `Media-Queries.md`: Media queries.
+      - `Styling/`: CSS styling techniques.
+        - `Typography.md`: CSS typography.
+        - `Shadows.md`: CSS shadows.
+        - `Colors.md`: CSS colors.
+        - `Borders.md`: CSS borders.
+      - `Advanced/`: Advanced CSS topics.
+        - `Transitions.md`: CSS transitions.
+        - `Custom Properties.md`: CSS custom properties.
+        - `CSS Variables.md`: CSS variables.
+        - `Animations.md`: CSS animations.
 
 ## How to Use
 
